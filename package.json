@@ -1,0 +1,25 @@
+{
+  "name": "noobster",
+  "version": "1.0.0",
+  "description": "Noobster - A social networking site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harnam/noobster.git"
+  },
+  "author": "Harnam Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harnam/noobster/issues"
+  },
+  "homepage": "https://github.com/harnam/noobster#readme",
+  "dependencies": {
+    "@angular/cli": "^8.1.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
